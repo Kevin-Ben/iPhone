@@ -1,11 +1,13 @@
 var body = $response.body
 var url = $request.url
+var curDate = new Date();
+var dd = new Date(curDate.getTime() - 24*60*60*1000);
 var resp={
   "flag" : true,
   "data" : {
     "hsInfo" : {
       "hsjg" : "阴性",
-      "hsDate" : "2022-10-07 00:53:41"
+      "hsDate" : dd.getFullYear()+"-"+dd.getMonth()+"-"+dd.getDate()+" 20:28:11",
     },
     "over" : "1",
     "ymType" : "5601",
