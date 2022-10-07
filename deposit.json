@@ -1,0 +1,6 @@
+{
+  "$SysResult$": {
+    "$SysCode$": "500",
+    "$Content$": "{\"ErrCode\":\"200\",\"ErrMsg\":\"\",\"DicRmbDeposit\":{\"j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_\":{\"Balance\":263131.84,\"ExpectBal\":0.0,\"AvlBal\":263131.84,\"FreezeBal\":0.0,\"AcctNo\":\"121517368700005\",\"AccountUid\":\"j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_\",\"AccountType\":\"1\",\"IsDeposit\":true,\"AcctRemark\":\"一卡通\",\"IsLendingOneness\":false,\"CardTailNo\":\"8168\",\"IsPension\":false,\"ActTyp\":\"\"}},\"DicForeignDeposit\":{},\"OtherRegularDeposit\":{},\"DepositTaking\":{},\"TimeDemandDeposit\":{},\"ZeroLumpNew\":{},\"BigRegular\":{\"j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_\":0.0},\"InformDeposit\":{},\"EnjoyFixDeposit\":{},\"FinanceAccount\":{\"j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_\":0.0},\"ScrollDepositCardList\":\"\",\"ConsumeAccount\":{},\"CompartmentList\":\"\",\"LendingAccountUid\":\"\",\"DicCardView\":{\"j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_\":{\"RmbBalance\":263131.84,\"ForeignBalance\":0.0,\"OtherRegularBalance\":0.0,\"DepositTakingBalance\":0.0,\"TimeDemandBalance\":0.0,\"ZeroLumpNewBalance\":0.0,\"InformBalance\":0.0,\"BigRegularBalance\":0.0,\"EnjoyBalance\":0.0,\"ConsumeBalance\":0.0,\"FinanceAccount\":0.0}},\"RmbBalance\":263131.84,\"ForeignBalance\":0.0,\"BankDepositSumBalance\":263131.84,\"CurrentBalance\":263131.84}"
+  }
+}
