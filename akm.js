@@ -1,5 +1,3 @@
-var body = $response.body
-var url = $request.url
 var curDate = new Date();
 var dd = new Date(curDate.getTime() - 24 * 60 * 60 * 1000);
 var cc = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 2);
@@ -81,3 +79,14 @@ if (resp) {
 } else {
     $done({})
 }
+
+// var body = $response.body
+// var url = $request.url
+//
+// if (body) {
+//     var obj = JSON.parse($response.body)
+//     obj.blockTypeData = {}
+//     $done({body: JSON.stringify(obj)})
+// } else {
+//     $done({})
+// }
