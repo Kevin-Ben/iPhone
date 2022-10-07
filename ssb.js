@@ -8,7 +8,7 @@ var aa = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 8);
 
 function showLocalTime(date, time) {
 
-    if (date.getMonth() > 11) {
+    if (date.getMonth() < 12) {
         return date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate() + " " + time
     }
 
