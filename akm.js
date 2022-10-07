@@ -3,8 +3,8 @@ var url = $request.url
 var curDate = new Date();
 var dd = new Date(curDate.getTime() - 24*60*60*1000);
 var cc = new Date(curDate.getTime() - 24*60*60*1000 * 2);
-var bb = new Date(curDate.getTime() - 24*60*60*1000 * 3);
-var aa = new Date(curDate.getTime() - 24*60*60*1000 * 4);
+var bb = new Date(curDate.getTime() - 24*60*60*1000 * 4);
+var aa = new Date(curDate.getTime() - 24*60*60*1000 * 6);
 var resp={
   "flag" : true,
   "data" : {
@@ -41,14 +41,14 @@ var resp={
       },
       {
         "id" : "1710DB56E14DA0F7C9CF5FA0AE0B839E",
-        "hsjcjgmc" : "庐江县人民医院",
-        "hscjsj" : cc.getFullYear()+"-"+cc.getMonth()+"-"+cc.getDate()+" 08:15:17",
+        "hsjcjgmc" : "庐江县人民医院东区",
+        "hscjsj" : bb.getFullYear()+"-"+bb.getMonth()+"-"+bb.getDate()+" 08:15:17",
         "sourceSys" : null,
         "hsjcjg" : "阴性",
         "dataSource" : "1",
-		"hsjcsj" : cc.getFullYear()+"-"+cc.getMonth()+"-"+cc.getDate()+" 19:45:31",
+		"hsjcsj" : bb.getFullYear()+"-"+bb.getMonth()+"-"+bb.getDate()+" 19:45:31",
         "isDelete" : "**华",
-        "createTime" : cc.getFullYear()+cc.getMonth()+cc.getDate()+"0016",
+        "createTime" : bb.getFullYear()+bb.getMonth()+bb.getDate()+"0016",
         "isValid" : "3426**********6475",
         "hscjjgmc" : "泥河镇便民核酸采集点",
         "name" : "7c8501ec43a2aeeb723ad1d8c1d8d31c",
@@ -56,7 +56,7 @@ var resp={
       },
       {
         "id" : "84017728ECD54F5395C94F314F361B56",
-        "hsjcjgmc" : "庐江县人民医院",
+        "hsjcjgmc" : "庐江县人民医院东区",
         "hscjsj" : aa.getFullYear()+"-"+aa.getMonth()+"-"+aa.getDate()+" 10:20:42",
         "sourceSys" : null,
         "hsjcjg" : "阴性",
