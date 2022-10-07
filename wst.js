@@ -23,11 +23,3 @@ if (resp) {
 } else {
   $done({})
 }
-
-//if (body) {
-//  var obj = JSON.parse($resp)
-//  obj.blockTypeData = {}
-//  $done({ body: JSON.stringify(obj) })
-//} else {
-//  $done({})
-//}
