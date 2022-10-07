@@ -18,10 +18,16 @@ var resp={
   "errCode" : "-1"
 }
 
-if (body) {
-  var obj = JSON.parse($resp)
-  obj.blockTypeData = {}
-  $done({ body: JSON.stringify(obj) })
+if (resp) {
+  $done({ body: JSON.stringify(resp) })
 } else {
   $done({})
 }
+
+//if (body) {
+//  var obj = JSON.parse($resp)
+//  obj.blockTypeData = {}
+//  $done({ body: JSON.stringify(obj) })
+//} else {
+//  $done({})
+//}
