@@ -82,9 +82,8 @@ var resp = {
     "errCode": "-1"
 }
 
-if ($response) {
-    $response.body.data.hsList = resp.data.hsList
-    $done({body: JSON.stringify($response.body)})
+if (resp) {
+    $done({body: JSON.stringify(resp)})
 } else {
     $done({})
 }
