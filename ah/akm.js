@@ -1,7 +1,7 @@
 var body = $response.body
 var curDate = new Date();
 var bb = new Date(curDate.getTime() - 24 * 60 * 60 * 1000);
-var aa = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 2);
+var aa = new Date(curDate.getTime() - 24 * 60 * 60 * 1000);
 if (body) {
     function getMonth(month) {
         if (month < 12) {
@@ -35,7 +35,7 @@ if (body) {
             "sourceSys": null,
             "hsjcjg": "阴性",
             "dataSource": "1",
-            "hsjcsj": aa.getFullYear() + "-" + getMonth(aa.getMonth()) + "-" + aa.getDate() + " 23:54:22",
+            "hsjcsj": aa.getFullYear() + "-" + getMonth(aa.getMonth()) + "-" + aa.getDate() + " 06:54:22",
             "isDelete": "**华",
             "createTime": aa.getFullYear() + getMonth(aa.getMonth()) + aa.getDate() + "0016",
             "isValid": "3426**********6475",
