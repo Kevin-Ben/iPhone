@@ -1,9 +1,9 @@
 var body = $response.body
 var curDate = new Date();
 var dd = new Date(curDate.getTime() - 24 * 60 * 60 * 1000);
-var cc = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 12);
-var bb = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 14);
-var aa = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 26);
+var cc = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 6);
+var bb = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 7);
+var aa = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 27);
 var ee = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 28);
 if (body) {
     function getMonth(month) {
@@ -49,15 +49,15 @@ if (body) {
         {
             "id": "1710DB56E14DA0F7C9CF5FA0AE0B839E",
             "hsjcjgmc": "庐江县人民医院东区",
-            "hscjsj": bb.getFullYear() + "-" + getMonth(bb.getMonth()) + "-" + bb.getDate() + " 08:15:17",
+            "hscjsj": bb.getFullYear() + "-" + getMonth(bb.getMonth()) + "-" + bb.getDate() + " 19:24:36",
             "sourceSys": null,
             "hsjcjg": "阴性",
             "dataSource": "1",
-            "hsjcsj": bb.getFullYear() + "-" + getMonth(bb.getMonth()) + "-" + bb.getDate() + " 19:45:31",
+            "hsjcsj": bb.getFullYear() + "-" + getMonth(bb.getMonth()) + "-" + bb.getDate() + " 00:53:41",
             "isDelete": "**华",
             "createTime": bb.getFullYear() + getMonth(bb.getMonth()) + bb.getDate() + "0016",
             "isValid": "3426**********6475",
-            "hscjjgmc": "泥河镇便民核酸采集点",
+            "hscjjgmc": "泥河高速道口",
             "name": "7c8501ec43a2aeeb723ad1d8c1d8d31c",
             "idCardNo": "6da2b1b222a2cd52dd814bbbde31fd9eaf9a289f3ed77c26690e24097a2ed75e"
         },
