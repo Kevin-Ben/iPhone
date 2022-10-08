@@ -6,16 +6,16 @@
       "ErrMsg": "",
       "InterfaceName": "",
       "Result": {
-        "sumBalance": 686802,
+        "sumBalance": 886802,
         "cardViewSum": {
           "aGDicCardView": {
-            "j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_": 686802
+            "j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_": 886802
           }
         },
         "accountGold": {
           "j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_": {
-            "Balance": 686802,
-            "Income": 686802
+            "Balance": 886802,
+            "Income": 886802
           }
         },
         "bullishGoldBalance": {},
