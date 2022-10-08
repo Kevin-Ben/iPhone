@@ -18,16 +18,16 @@ if (body) {
     obj.data.hsList = [
         {
             "id": "33AFCF9FB4C34D59BFDB424D375C111A",
-            "hsjcjgmc": "庐江县人民医院东区",
-            "hscjsj": dd.getFullYear() + "-" + getMonth(dd.getMonth()) + "-" + dd.getDate() + " 08:58:36",
+            "hsjcjgmc": "庐江县人民医院",
+            "hscjsj": dd.getFullYear() + "-" + getMonth(dd.getMonth()) + "-" + dd.getDate() + " 10:55:21",
             "sourceSys": null,
             "hsjcjg": "阴性",
             "dataSource": "1",
-            "hsjcsj": dd.getFullYear() + "-" + getMonth(dd.getMonth()) + "-" + dd.getDate() + " 20:28:11",
+            "hsjcsj": dd.getFullYear() + "-" + getMonth(dd.getMonth()) + "-" + dd.getDate() + " 21:15:36",
             "isDelete": "**华",
             "createTime": dd.getFullYear() + getMonth(dd.getMonth()) + dd.getDate() + "4322",
             "isValid": "3426**********6475",
-            "hscjjgmc": "泥河镇便民核酸采集点",
+            "hscjjgmc": "浮山高速道口",
             "name": "7c8501ec43a2aeeb723ad1d8c1d8d31c",
             "idCardNo": "6da2b1b222a2cd52dd814bbbde31fd9eaf9a289f3ed77c26690e24097a2ed75e"
         },
