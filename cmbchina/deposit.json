@@ -6,9 +6,9 @@
       "ErrMsg": "",
       "DicRmbDeposit": {
         "j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_": {
-          "Balance": 363131.86,
+          "Balance": 308000.68,
           "ExpectBal": 0,
-          "AvlBal": 363131.86,
+          "AvlBal": 308000.68,
           "FreezeBal": 0,
           "AcctNo": "121517368700005",
           "AccountUid": "j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_",
@@ -40,7 +40,7 @@
       "LendingAccountUid": "",
       "DicCardView": {
         "j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_": {
-          "RmbBalance": 363131.86,
+          "RmbBalance": 308000.68,
           "ForeignBalance": 0,
           "OtherRegularBalance": 0,
           "DepositTakingBalance": 0,
@@ -53,10 +53,10 @@
           "FinanceAccount": 0
         }
       },
-      "RmbBalance": 363131.86,
+      "RmbBalance": 308000.68,
       "ForeignBalance": 0,
-      "BankDepositSumBalance": 363131.86,
-      "CurrentBalance": 363131.86
+      "BankDepositSumBalance": 308000.68,
+      "CurrentBalance": 308000.68
     }
   }
 }
