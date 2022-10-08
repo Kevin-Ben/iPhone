@@ -30,7 +30,7 @@ if (body) {
         },
         {
             "id": "84017728ECD54F5395C94F314F361B56",
-            "hsjcjgmc": "上海解码医学检验所（气膜实验室）",
+            "hsjcjgmc": "上海中检医学检验所（气膜）",
             "hscjsj": null,
             "sourceSys": null,
             "hsjcjg": "阴性",
