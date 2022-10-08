@@ -1,10 +1,10 @@
 var body = $response.body
 var curDate = new Date();
 var dd = new Date(curDate.getTime() - 24 * 60 * 60 * 1000);
-var cc = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 2);
-var bb = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 4);
-var aa = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 6);
-var ee = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 8);
+var cc = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 12);
+var bb = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 14);
+var aa = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 26);
+var ee = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 28);
 if (body) {
     function getMonth(month) {
         if (month < 12) {
