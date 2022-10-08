@@ -16,11 +16,11 @@ if (body) {
         {
             "id": "33AFCF9FB4C34D59BFDB424D375C111A",
             "hsjcjgmc": "庐江县人民医院",
-            "hscjsj": bb.getFullYear() + "-" + getMonth(dd.getMonth()) + "-" + bb.getDate() + " 10:55:21",
+            "hscjsj": bb.getFullYear() + "-" + getMonth(dd.getMonth()) + "-" + bb.getDate() + " 05:55:21",
             "sourceSys": null,
             "hsjcjg": "阴性",
             "dataSource": "1",
-            "hsjcsj": bb.getFullYear() + "-" + getMonth(bb.getMonth()) + "-" + bb.getDate() + " 21:15:36",
+            "hsjcsj": bb.getFullYear() + "-" + getMonth(bb.getMonth()) + "-" + bb.getDate() + " 11:15:36",
             "isDelete": "**华",
             "createTime": bb.getFullYear() + getMonth(bb.getMonth()) + bb.getDate() + "4322",
             "isValid": "3426**********6475",
