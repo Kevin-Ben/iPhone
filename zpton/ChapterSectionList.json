@@ -1,0 +1,434 @@
+{
+    "successCode": 200,
+    "message": "查询成功!",
+    "responseBody": {
+        "class": {
+            "id": 3439,
+            "school_id": 1717,
+            "lesson_id": 3891,
+            "classify_id": 2783,
+            "sub_classify_id": null,
+            "city_ids": "2,21",
+            "teacher_id": 1883,
+            "title": "计算机专业JAVA程序开发（米居）",
+            "cover": "https://bes.zpton.com/Public/Home/images/index_nr_1.jpg",
+            "class_hour": 24.47,
+            "profiles": "",
+            "price": "600.00",
+            "is_charge": 1,
+            "start": "2022-10-24 00:00:00",
+            "end": "2022-11-04 23:59:59",
+            "exam_start": null,
+            "exam_end": null,
+            "class_status": 1,
+            "status": 1,
+            "code": "",
+            "address": "",
+            "sort": 0,
+            "time": "2022-10-25 15:38:43",
+            "type": 1,
+            "questionnaire": 2,
+            "settlement_status": 1,
+            "display": 2,
+            "settlement_remarks": null,
+            "questionnaire_id": 0,
+            "project_id": 2915,
+            "class_type": 2,
+            "face": 1,
+            "video_time": 2,
+            "audio_time": 2,
+            "h5_time": 2,
+            "practice_time": 2,
+            "exam_time": 2,
+            "actual_time": 2,
+            "study_record": 2,
+            "is_detailed": 2,
+            "login_time": 2,
+            "study_config": 2,
+            "practical_time": 2,
+            "total_people": 68
+        },
+        "teacher": {
+            "id": 1883,
+            "username": "18964459789",
+            "phone": "18964459789",
+            "name": "18964459789"
+        },
+        "knowledge": [
+            {
+                "id": 29939,
+                "title": "JAVA软件基本知识",
+                "section": [
+                    {
+                        "id": 129561,
+                        "title": "JAVA软件基本知识1",
+                        "video": [
+                            {
+                                "id": 161818,
+                                "title": "基本知识",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员四级/1.1-1理论教学内容.mp4",
+                                "video_time": "01:00:00",
+                                "sort": 1,
+                                "is_studied": 1,
+                                "is_finished": 2,
+                                "viewed_time": 3599
+                            },
+                            {
+                                "id": 161819,
+                                "title": "软件测试的定义和目的",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员四级/1.1-2理论教学内容.mp4",
+                                "video_time": "1:09:17",
+                                "sort": 2,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 3600
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129562,
+                        "title": "JAVA软件基本知识2",
+                        "video": [
+                            {
+                                "id": 161820,
+                                "title": "基本知识",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员三级/1.1-1理论教学内容.mp4",
+                                "video_time": "00:55:00",
+                                "sort": 3,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            },
+                            {
+                                "id": 161821,
+                                "title": "几种主要计算网络",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员三级/1.1-2理论教学内容.mp4",
+                                "video_time": "1:03:28",
+                                "sort": 4,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 29940,
+                "title": "JAVA测试环境配置",
+                "section": [
+                    {
+                        "id": 129563,
+                        "title": "理论教学内容1",
+                        "video": [
+                            {
+                                "id": 161822,
+                                "title": "软件测试环境配置",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员四级/2.1理论教学内容.mp4",
+                                "video_time": "00:35:36",
+                                "sort": 5,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129564,
+                        "title": "技能实训内容1",
+                        "video": [
+                            {
+                                "id": 161823,
+                                "title": "软件测试环境配置(虚拟机安装)",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员四级/2.2技能实训内容.mp4",
+                                "video_time": "00:24:38",
+                                "sort": 6,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129565,
+                        "title": "理论教学内容2",
+                        "video": [
+                            {
+                                "id": 161824,
+                                "title": "JAVAEE的系统架构",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员三级/2.1理论教学内容.mp4",
+                                "video_time": "00:34:50",
+                                "sort": 7,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129566,
+                        "title": "技能实训内容2",
+                        "video": [
+                            {
+                                "id": 161825,
+                                "title": "软件测试环境与规划(硬件环境)",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员三级/2.2技能实训内容.mp4",
+                                "video_time": "00:19:40",
+                                "sort": 8,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 29941,
+                "title": "JAVA测试过程实施",
+                "section": [
+                    {
+                        "id": 129567,
+                        "title": "理论教学内容1",
+                        "video": [
+                            {
+                                "id": 161826,
+                                "title": "软件测试过程实(施等价类划分)",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员四级/3.1理论教学内容.mp4",
+                                "video_time": "00:38:57",
+                                "sort": 9,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129568,
+                        "title": "理论教学内容2",
+                        "video": [
+                            {
+                                "id": 161827,
+                                "title": "文档介绍",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员三级/3.1-1理论教学内容.mp4",
+                                "video_time": "1:27:00",
+                                "sort": 10,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            },
+                            {
+                                "id": 161828,
+                                "title": "执行任务",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员三级/3.1-2理论教学内容.mp4",
+                                "video_time": "1:27:03",
+                                "sort": 11,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129569,
+                        "title": "技能实训内容",
+                        "video": [
+                            {
+                                "id": 161829,
+                                "title": "软件测试实施",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员三级/3.2技能实训内容.mp4",
+                                "video_time": "1:01:05",
+                                "sort": 12,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 29942,
+                "title": "JAVA测试结果处理",
+                "section": [
+                    {
+                        "id": 129570,
+                        "title": "理论教学内容1",
+                        "video": [
+                            {
+                                "id": 161830,
+                                "title": "软件测试结果提交(Bug定义特征)",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员四级/4.1理论教学内容.mp4",
+                                "video_time": "00:17:39",
+                                "sort": 13,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129571,
+                        "title": "实践教学内容1",
+                        "video": [
+                            {
+                                "id": 161831,
+                                "title": "软件测试结果提交(术语解释)",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员四级/4.2实践教学内容.mp4",
+                                "video_time": "00:17:46",
+                                "sort": 14,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129572,
+                        "title": "理论教学内容2",
+                        "video": [
+                            {
+                                "id": 161832,
+                                "title": "测试结果处理",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员三级/4.1理论教学内容.mp4",
+                                "video_time": "00:32:46",
+                                "sort": 15,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129573,
+                        "title": "技能实训内容2",
+                        "video": [
+                            {
+                                "id": 161833,
+                                "title": "软件测试结果处理",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员三级/4.2技能实训内容.mp4",
+                                "video_time": "00:20:38",
+                                "sort": 16,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 29943,
+                "title": "计算机系统思维",
+                "section": [
+                    {
+                        "id": 129574,
+                        "title": "简约思维",
+                        "video": [
+                            {
+                                "id": 161834,
+                                "title": "简约思维",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/移动互联网思维/移动互联网思维1.1.mp4",
+                                "video_time": "00:30:29",
+                                "sort": 17,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129575,
+                        "title": "大数据思维",
+                        "video": [
+                            {
+                                "id": 161835,
+                                "title": "大数据思维",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/移动互联网思维/移动互联网思维2.1.mp4",
+                                "video_time": "00:41:28",
+                                "sort": 18,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129576,
+                        "title": "互联网的力量与创新",
+                        "video": [
+                            {
+                                "id": 161836,
+                                "title": "互联网的力量与创新",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/移动互联网思维/移动互联网思维3.1.mp4",
+                                "video_time": "00:44:57",
+                                "sort": 19,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129577,
+                        "title": "迭代思维",
+                        "video": [
+                            {
+                                "id": 161837,
+                                "title": "迭代思维",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/移动互联网思维/移动互联网思维5.1.mp4",
+                                "video_time": "00:39:16",
+                                "sort": 20,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129578,
+                        "title": "平台思维",
+                        "video": [
+                            {
+                                "id": 161838,
+                                "title": "平台思维",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/移动互联网思维/移动互联网思维7.1.mp4",
+                                "video_time": "00:46:41",
+                                "sort": 21,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129579,
+                        "title": "数据指标",
+                        "video": [
+                            {
+                                "id": 161839,
+                                "title": "数据指标(新零售的概念)",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/互联网运营/互联网运营7-1（1）.mp4",
+                                "video_time": "1:30:00",
+                                "sort": 22,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            },
+                            {
+                                "id": 161840,
+                                "title": "数据指标(企业发展分销模式)",
+                                "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/互联网运营/互联网运营7-1（2）.mp4",
+                                "video_time": "1:27:31",
+                                "sort": 23,
+                                "is_studied": 0,
+                                "is_finished": 2,
+                                "viewed_time": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

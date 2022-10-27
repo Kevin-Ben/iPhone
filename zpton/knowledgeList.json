@@ -1,0 +1,73 @@
+{
+    "successCode": 200,
+    "message": "查询成功!",
+    "responseBody": {
+        "class": {
+            "id": 3439,
+            "school_id": 1717,
+            "lesson_id": 3891,
+            "classify_id": 2783,
+            "sub_classify_id": null,
+            "city_ids": "2,21",
+            "teacher_id": 1883,
+            "title": "计算机专业JAVA程序开发（米居）",
+            "cover": "https://bes.zpton.com/Public/Home/images/index_nr_1.jpg",
+            "class_hour": 24.47,
+            "profiles": "",
+            "price": "600.00",
+            "is_charge": 1,
+            "start": "2022-10-24 00:00:00",
+            "end": "2022-11-04 23:59:59",
+            "exam_start": null,
+            "exam_end": null,
+            "class_status": 1,
+            "status": 1,
+            "code": "",
+            "address": "",
+            "sort": 0,
+            "time": "2022-10-25 15:38:43",
+            "type": 1,
+            "questionnaire": 2,
+            "settlement_status": 1,
+            "display": 2,
+            "settlement_remarks": null,
+            "questionnaire_id": 0,
+            "project_id": 2915,
+            "class_type": 2,
+            "face": 1,
+            "video_time": 2,
+            "audio_time": 2,
+            "h5_time": 2,
+            "practice_time": 2,
+            "exam_time": 2,
+            "actual_time": 2,
+            "study_record": 2,
+            "is_detailed": 2,
+            "login_time": 2,
+            "study_config": 2,
+            "practical_time": 2,
+            "total_people": 68
+        },
+        "teacher": {
+            "id": 1883,
+            "username": "18964459789",
+            "phone": "18964459789",
+            "name": "18964459789"
+        },
+        "knowledge": {
+            "list": [
+                {
+                    "id": 161818,
+                    "title": "基本知识",
+                    "video": "https://vd.static.zpton.com/2022 视频压缩 （5月）/JAVA软件操作员四级/1.1-1理论教学内容.mp4",
+                    "video_time": "01:00:00",
+                    "sort": 1,
+                    "is_studied": 1,
+                    "is_finished": 2,
+                    "viewed_time": 3599
+                }
+            ],
+            "total": 23
+        }
+    }
+}
