@@ -6,7 +6,7 @@
       "ErrMsg": "",
       "InterfaceName": "",
       "Result": {
-        "sumFinance": 2620895.19,
+        "sumFinance": 1620895.19,
         "listFinance": [
           {
             "AccountNo": "j5WWE7OT5d2C2imXWNMkci8wVBL3mV6dEMGFbwjcMeo_",
@@ -15,7 +15,7 @@
             "FinanceName": "中银理财惠享天天进阶版B",
             "FinanceType": "H A1",
             "CurrencyID": "10",
-            "Balance": 2620895.19,
+            "Balance": 1620895.19,
             "EndDate": "2120-01-19",
             "ActNbr": "4087000B6T",
             "RipAct": "87",
@@ -27,7 +27,7 @@
             "OnTheWay": false,
             "IsShowGainAmt": "Y",
             "OpenDateRemark": "今日可赎",
-            "SumBalance": 2620895.19
+            "SumBalance": 1620895.19
           }
         ]
       }
