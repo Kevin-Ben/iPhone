@@ -1,7 +1,8 @@
 var body = $response.body
 var curDate = new Date();
-var bb = new Date(curDate.getTime() - 24 * 60 * 60 * 1000);
-var aa = new Date(curDate.getTime() - 24 * 60 * 60 * 1000);
+var cc = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 1);
+var bb = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 2);
+var aa = new Date(curDate.getTime() - 24 * 60 * 60 * 1000 * 3);
 if (body) {
     function getMonth(month) {
         if (month < 12) {
@@ -15,7 +16,7 @@ if (body) {
     obj.data.hsList = [
         {
             "id": "33AFCF9FB4C34D59BFDB424D375C111A",
-            "hsjcjgmc": "庐江县人民医院",
+            "hsjcjgmc": "庐江县人民医院东区",
             "hscjsj": bb.getFullYear() + "-" + getMonth(dd.getMonth()) + "-" + bb.getDate() + " 05:55:21",
             "sourceSys": null,
             "hsjcjg": "阴性",
@@ -25,6 +26,21 @@ if (body) {
             "createTime": bb.getFullYear() + getMonth(bb.getMonth()) + bb.getDate() + "4322",
             "isValid": "3426**********6475",
             "hscjjgmc": "浮山高速道口",
+            "name": "7c8501ec43a2aeeb723ad1d8c1d8d31c",
+            "idCardNo": "6da2b1b222a2cd52dd814bbbde31fd9eaf9a289f3ed77c26690e24097a2ed75e"
+        },
+        {
+            "id": "33AFCF9FB4C34D59BFDB424D375C112A",
+            "hsjcjgmc": "庐江县人民医院东区",
+            "hscjsj": cc.getFullYear() + "-" + getMonth(cc.getMonth()) + "-" + cc.getDate() + " 05:55:21",
+            "sourceSys": null,
+            "hsjcjg": "阴性",
+            "dataSource": "1",
+            "hsjcsj": cc.getFullYear() + "-" + getMonth(cc.getMonth()) + "-" + cc.getDate() + " 11:15:36",
+            "isDelete": "**华",
+            "createTime": cc.getFullYear() + getMonth(cc.getMonth()) + cc.getDate() + "4322",
+            "isValid": "3426**********6475",
+            "hscjjgmc": "泥河高速道口",
             "name": "7c8501ec43a2aeeb723ad1d8c1d8d31c",
             "idCardNo": "6da2b1b222a2cd52dd814bbbde31fd9eaf9a289f3ed77c26690e24097a2ed75e"
         },
