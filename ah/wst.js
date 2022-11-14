@@ -6,7 +6,7 @@ if (body) {
     var obj = JSON.parse($response.body)
     obj.data.hsInfo = {
         "hsjg": "阴性",
-        "hsDate": dd.getFullYear() + "-" + (dd.getMonth() + 1) + "-" + dd.getDate() + " 11:15:36",
+        "hsDate": dd.getFullYear() + "-" + (dd.getMonth() + 1) + "-" + dd.getDate() + " 20:15:36",
     }
     $done({body: JSON.stringify(obj)})
 } else {
